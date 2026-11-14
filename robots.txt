@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+Disallow: /__migrate
+
+Sitemap: https://librecorsa.org/sitemap.xml

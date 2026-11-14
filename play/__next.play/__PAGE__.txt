@@ -1,0 +1,28 @@
+3:"$Sreact.fragment"
+4:"/_next/static/chunks/2700-ix-d8mnx.js"
+5:"/_next/static/chunks/3_xag8dlr-l8y.js"
+6:"/_next/static/chunks/2bx2-ma3bog3s.js"
+7:"/_next/static/chunks/0jw09o2p0_lbz.js"
+8:"/_next/static/chunks/1khqinf64iu2j.js"
+9:"/_next/static/chunks/0usi-2ft5ga2a.js"
+a:"/_next/static/chunks/2f3elizrodh_s.js"
+b:I[42188,["$4","$5","$6","$7","$8","$9","$a"],"TrackGate"]
+c:"/_next/static/chunks/0umf92h1sb77c.js"
+d:I[97367,["$c"],"OutletBoundary"]
+e:"$Sreact.suspense"
+12:"ViewportBoundary"
+13:I[97367,["$c"],"$12"]
+14:"MetadataBoundary"
+15:I[97367,["$c"],"$14"]
+16:I[27201,["$c"],"IconMark"]
+11:X
+2:[["children",{"s":"__PAGE__","h":128,"d":{"r":["$","$3","c",{"children":[["$","main",null,{"className":"h-screen w-screen overflow-hidden bg-[#07070c]","children":[["$","h1",null,{"className":"sr-only","children":"Play LibreCorsa: free open-source racing simulator in your browser"}],["$","p",null,{"className":"sr-only","children":"Free, open-source sim racing in your browser: 500 Hz physics, open-wheelers and a GT3, AI races, multiplayer and wheel force feedback. Nothing to install."}],["$","$Lb",null,{}]]}],[["$","script","script-0",{"src":"/_next/static/chunks/2700-ix-d8mnx.js","async":true}],["$","script","script-1",{"src":"/_next/static/chunks/3_xag8dlr-l8y.js","async":true}],["$","script","script-2",{"src":"/_next/static/chunks/2bx2-ma3bog3s.js","async":true}],["$","script","script-3",{"src":"/_next/static/chunks/0jw09o2p0_lbz.js","async":true}],["$","script","script-4",{"src":"/_next/static/chunks/1khqinf64iu2j.js","async":true}],["$","script","script-5",{"src":"/_next/static/chunks/0usi-2ft5ga2a.js","async":true}],["$","script","script-6",{"src":"/_next/static/chunks/2f3elizrodh_s.js","async":true}]],["$","$Ld",null,{"children":["$","$e",null,{"name":"Next.MetadataOutlet","children":"$@f"}]}]]}],"p":"$@10","v":null,"s":"$11"}}]]
+1:[["children",{"s":"play","h":36,"c":"$Q2"}]]
+0:{"t":{"t":{"s":"","h":88,"c":"$Q1"},"h":{"r":["$","$3","h",{"children":[null,["$","$L13",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1, viewport-fit=cover"}],["$","meta","2",{"name":"theme-color","content":"#08090D"}],["$","meta","3",{"name":"color-scheme","content":"dark"}]]}],["$","$L15",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$e",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"Play | LibreCorsa"}],["$","meta","1",{"name":"description","content":"Free, open-source sim racing in your browser: 500 Hz physics, open-wheelers and a GT3, AI races, multiplayer and wheel force feedback. Nothing to install."}],["$","meta","2",{"name":"application-name","content":"LibreCorsa"}],["$","link","3",{"rel":"author","href":"https://github.com/KhazP"}],["$","meta","4",{"name":"author","content":"KhazP"}],["$","link","5",{"rel":"manifest","href":"/manifest.webmanifest"}],["$","meta","6",{"name":"keywords","content":"sim racing,racing simulator,browser racing game,free racing game,open source racing game,motorsport simulator,formula car,GT3,force feedback,WebGL"}],["$","meta","7",{"name":"creator","content":"KhazP"}],["$","meta","8",{"name":"robots","content":"index, follow"}],["$","meta","9",{"name":"googlebot","content":"index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"}],["$","meta","10",{"name":"category","content":"games"}],["$","link","11",{"rel":"canonical","href":"https://librecorsa.org/play"}],["$","meta","12",{"property":"og:title","content":"Play | LibreCorsa"}],["$","meta","13",{"property":"og:description","content":"Free, open-source sim racing in your browser: 500 Hz physics, open-wheelers and a GT3, AI races, multiplayer and wheel force feedback. Nothing to install."}],["$","meta","14",{"property":"og:url","content":"https://librecorsa.org/play"}],["$","meta","15",{"property":"og:site_name","content":"LibreCorsa"}],["$","meta","16",{"property":"og:locale","content":"en_US"}],["$","meta","17",{"property":"og:type","content":"website"}],["$","meta","18",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","19",{"name":"twitter:title","content":"LibreCorsa: free open-source racing simulator in your browser"}],["$","meta","20",{"name":"twitter:description","content":"Free, open-source sim racing in your browser: 500 Hz physics, open-wheelers and a GT3, AI races, multiplayer and wheel force feedback. Nothing to install."}],["$","meta","21",{"name":"twitter:image","content":"https://librecorsa.org/twitter-image.jpg?twitter-image.1tk5utmeut6s-.jpg"}],["$","meta","22",{"name":"twitter:image:alt","content":"A LibreCorsa open-wheeler on the start-finish straight of the Rwanda International Circuit"}],["$","meta","23",{"name":"twitter:image:type","content":"image/jpeg"}],["$","meta","24",{"name":"twitter:image:width","content":"1200"}],["$","meta","25",{"name":"twitter:image:height","content":"630"}],["$","link","26",{"rel":"icon","href":"/branding/librecorsa-mark.svg","type":"image/svg+xml"}],["$","link","27",{"rel":"icon","href":"/favicon.ico","sizes":"16x16 32x32 48x48"}],["$","link","28",{"rel":"apple-touch-icon","href":"/branding/apple-touch-icon.png","sizes":"180x180"}],["$","$L16","29",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@17","v":null,"s":"$11"}},"a":"$@18","u":"$@19","b":"BGFJ21IY2t5VQIYatU3kY"}
+f:null
+19:true
+11:300
+11:C
+18:0
+17:"$undefined"
+10:"$undefined"
